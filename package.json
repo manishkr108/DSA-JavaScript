@@ -4,7 +4,8 @@
   },
   "scripts": {
   "test:monotonic": "jest ../tests/monotonic.test.js",
-  "test:sort": "jest ../tests/math.test.js"
+  "test:sort": "jest ../tests/math.test.js",
+  "test:anagram": "jest ../tests/anagram.test.js"
 }
   
 }
