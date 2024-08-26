@@ -41,7 +41,7 @@ Thanks to the online coding communities and resources that make learning and pra
 ## Contact
 
 - **GitHub:** [Your GitHub Profile](https://github.com/manishkr108)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/https://www.linkedin.com/in/manishk799/)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/manishk799/)
 
 ---
 
