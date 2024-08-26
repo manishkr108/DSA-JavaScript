@@ -11,7 +11,7 @@ This repository is dedicated to my journey of mastering Data Structures and Algo
 | Day | Problem Title | Solution | Date |
 |-----|---------------|----------|------|
 | 1   | [Problem Name](https://github.com/manishkr108/DSA-JavaScript/tree/master/day1)) | [Solution](https://github.com/manishkr108/DSA-JavaScript/tree/master/day1) | YYYY-MM-DD |
-| 2   | [Problem Name](link-to-problem) | [Solution](link-to-solution) | YYYY-MM-DD |
+| 2   | [Problem Name]((https://github.com/manishkr108/DSA-JavaScript/tree/master/day2)) | [Solution](https://github.com/manishkr108/DSA-JavaScript/tree/master/day2)) | YYYY-MM-DD |
 <!-- Add more rows as you progress -->
 
 ## Languages & Tools
